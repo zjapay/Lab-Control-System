@@ -1,4 +1,4 @@
-# Lab-Control-System
+# LCS: Lab Control System
 
 Empowering Learning Experience Through Advance Lab Control System
 
