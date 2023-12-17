@@ -1,10 +1,10 @@
 # LCS: Lab Control System
 
-Empowering Learning Experience Through Advance Lab Control System
+Experience streamlined laboratory management with the Lab Control System, providing a user-friendly interface for efficient equipment control, experiment coordination, data organization, and empowering learning experience through advance Lab Control System.
 
 ## Tags
-Tracker
-Scheduling
-Monitoring
+  - Tracker
+  - Scheduling
+  - Monitoring
 
-![LCS Link](link_to_image)
+[LCS Link](https://labcontrolsystem.netlify.app)
