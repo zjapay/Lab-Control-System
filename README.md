@@ -7,4 +7,4 @@ Experience streamlined laboratory management with the Lab Control System, provid
   - Scheduling
   - Monitoring
 
-[LCS Link](https://labcontrolsystem.netlify.app)
+[LCS Link](https://labcontrolsystem.netlify.app/)
